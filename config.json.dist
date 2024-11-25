@@ -1,0 +1,9 @@
+{
+  "discord": {
+    "token": "",
+    "userId": ""
+  },
+  "calendars": [
+    "https://ics.fixtur.es/v2/league/champions-league.ics"
+  ]
+}
